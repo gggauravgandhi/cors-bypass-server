@@ -1,0 +1,12 @@
+{
+  "name": "cors-bypass-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "cors-anywhere": "^0.4.4",
+    "express": "^4.17.2",
+    "request": "^2.88.2"
+  }
+}
